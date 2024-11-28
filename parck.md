@@ -5,7 +5,7 @@
 本文。
 
 **太字**
-*斜体*(日本語は)
+*斜体*(日本語は無効なことが多い)
 <sub>下付き</sub>
 <sub>上付き</sub>
 <ins>下線</ins>
@@ -24,9 +24,9 @@ class CSClass{
 
 [README](README.md)
 
-![スクショ](img.jpg)
+![スクショ](images/img00.jpg)
 
-<img src="img.jpg" style="width:160px" alt="スクショ">
+<img src="images/img00.jpg" style="width:160px" alt="スクショ">
 
-
+-
      
