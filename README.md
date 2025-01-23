@@ -9,7 +9,7 @@
 
 。Java
 
-	PaizaでのJava練習
+PaizaでのJava練習
 
 ![スクショ](images/paiza.png)
 
