@@ -8,8 +8,11 @@
 <b1>プログラム言語</b1>
 
 。Java
+
 	PaizaでのJava練習
-	![スクショ](images/paiza.png)
+
+![スクショ](images/paiza.png)
+
 。SQL
 
 。HTML/CSS
