@@ -1,46 +1,54 @@
-# portfolio1
+<body style="background-image:url('img00.jpg');background-size:cover;"></body>
 
-。グエン　ティ　ガン
+<p><span style ="color:red;font-size:50px;text-transform:uppercase;"> Portfolio1
+</span></p>
 
-。専門学校デジタルアーツ東　ゲーム学科	ゲームプログラム
+- グエン　ティ　ガン
 
-# スキル
+- 専門学校デジタルアーツ東　ゲーム学科	ゲームプログラム
+
+
+# <p><span style ="color:blue;">スキル</span></p>
 <b1>プログラム言語</b1>
 
-。Java
+- Java
 
-PaizaでのJava練習
+	PaizaでのJava練習
 
-![スクショ](images/paiza.jpg)
 
-。SQL
+![スクショ](images/paiza.jpg )
 
-。HTML/CSS
+- SQL
 
-。JAVASCRIPT
+- HTML/CSS
 
-。C#
+- JAVASCRIPT
 
-。C/C++
+- C#
+
+- C/C++
 
 <b1>データベース</b1>
 
-。MySQL
+- MySQL
 
 
 
-## 取り組んでるテーマ
+# <p><span style ="color:blue;">取り組んでるテーマ</span></p>
 	C を使った簡単プログラム
 
-## 作品リスト
+# <p><span style ="color:blue;">作品リスト</span></p>
 
-![スクショ](images/FLAPPY.jpg)
+![スクショ](images/ngan.jpg)
 
 
 
-## 操作方法
-	。ジャンプ: Spacebarでジャンプします。
-	。スコア: プレイヤーは障害物を避けたり、スコアを獲得します。
+# <p><span style ="color:blue;">操作方法</span></p>
+- ジャンプ: Spacebarでジャンプします。
+- スコア: プレイヤーは障害物を避けたり、スコアを獲得します。
+
+# <p><span style ="color:blue;">連絡先</span></p>
+- Gmail <ngannguyen2509.dat@gmail.com>
 
 
 
