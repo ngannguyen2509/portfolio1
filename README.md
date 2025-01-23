@@ -11,7 +11,7 @@
 
 PaizaでのJava練習
 
-![スクショ](images/paiza.png)
+![スクショ](images/paiza.jpg)
 
 。SQL
 
