@@ -1,5 +1,3 @@
-<body style="background-image:url('img00.jpg');background-size:cover;"></body>
-
 <p><span style ="color:red;font-size:50px;text-transform:uppercase;"> Portfolio1
 </span></p>
 
